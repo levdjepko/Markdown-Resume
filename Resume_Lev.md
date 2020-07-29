@@ -12,7 +12,7 @@ Education
 - Coursework in software engineering, quality assurance, project management, algorithms. 
 - Emphasis on Microsot C#, Visual Studio, Xamarin
 
-**M.S. in Geodetic Engineering (2014)
+**M.S. in Geodetic Engineering** (2014)
 
 - Geospatial applied sciences
 
